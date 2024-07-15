@@ -20,3 +20,12 @@ The next step is inputting a range of $Z$, and the code will produce the in-plan
 ![out-plane example](https://github.com/user-attachments/assets/93cd95c4-fbaa-4b39-b21f-99bb5e3a57cd)
 ![solid angle example](https://github.com/user-attachments/assets/b675001f-9f67-46e2-89ba-77febef5e6e5)
 
+There is an add-on feature in the Notebook that adds diffraction conditions to the plot.
+
+![Diffraction Conditions example](https://github.com/user-attachments/assets/3c72619c-a196-4d5c-b403-e5348d3d6c2b)
+
+The width of each diffraction channel is determined by the in-plane angular acceptance at its location.
+
+![Diffraction Conditions Ashem example](https://github.com/user-attachments/assets/e21a546c-c3c8-4fbe-afb8-60497b4694a8)
+
+For a more detailed analysis and simulation of the diffraction measurement, please go https://github.com/Okarl96/Scanning-Helium-Microscope-Diffraction-Measuement-Simulation
