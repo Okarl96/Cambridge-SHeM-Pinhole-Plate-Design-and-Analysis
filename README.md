@@ -29,3 +29,5 @@ The width of each diffraction channel is determined by the in-plane angular acce
 ![Diffraction Conditions Ashem example](https://github.com/user-attachments/assets/e21a546c-c3c8-4fbe-afb8-60497b4694a8)
 
 For a more detailed analysis and simulation of the diffraction measurement, please go https://github.com/Okarl96/Scanning-Helium-Microscope-Diffraction-Measuement-Simulation
+
+(●'◡'●)
