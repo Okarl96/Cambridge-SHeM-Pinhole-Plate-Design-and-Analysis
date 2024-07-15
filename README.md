@@ -1,6 +1,9 @@
 # Cambridge-SHeM-Pinhole-Plate-Design-and-Analysis
 
-A Python analysis script that parameterizes the pinhole plate geometry.
+A Python analysis script that parameterizes the pinhole plate geometry and analyses the performance of any new design.
+
+Created by Ke Wang
+Refined by Sam Lambrick
 
 ![Pinhole_Scheme](https://github.com/user-attachments/assets/abcc9f5e-898d-49f5-aa07-7d5b6fdba1e3)
 
