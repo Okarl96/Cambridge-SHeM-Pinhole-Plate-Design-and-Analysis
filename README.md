@@ -10,4 +10,13 @@ This is a figure demonstrating the parameterization of the pinhole plate geometr
 
 where $a$ is the full length of the axis of the detector aperture, $b$ is the separation between the center of the pinhole aperture and the detector aperture, $Z$ is the perpendicular distance between the sample and the pinhole aperture, $H_p$ is the height of the pinhole aperture above the plate, $H_d$ is the height of the detector aperture above the plate, $\alpha$ is the incidence angle of the helium beam, $\beta$ is the tilt angle of the detector aperture, $\theta$ is the detection angle of the detector aperture when the sample is located at a certain $Z$ position, and $\phi$ is the in-plane angular acceptance of the detector aperture w.r.t the sample at a certain $Z$ position.
 
-$a,b,H_p,H_d,\alpha,\beta$ will be fixed for any pinhole plate design in Cambridge currently. After setting these parameters following the example in the Jupyter notebook, one has basically create a new pinhole plate design. The next step is inputting a range of $Z$, and the code will produce the in-plane angular acceptance, out-plane angular acceptance, and solid angle of the detector aperture against $Z$, $\theta$, and $\Delta K$, which are also demonstrated using the current A-SHeM and B-SHeM pinhole plate as examples in the notebook.
+$a,b,H_p,H_d,\alpha,\beta$ will be fixed for any pinhole plate design in Cambridge currently. After setting these parameters following the example in the Jupyter notebook, one has basically create a new pinhole plate design. 
+
+![Pinhole Plate Designs Examples](https://github.com/user-attachments/assets/fe3645fc-271d-4156-8f15-775072622648)
+
+The next step is inputting a range of $Z$, and the code will produce the in-plane angular acceptance, out-plane angular acceptance, and solid angle of the detector aperture against $Z$, $\theta$, and $\Delta K$, which are also demonstrated using the current A-SHeM and B-SHeM pinhole plate as examples in the notebook.
+
+![in-plane example](https://github.com/user-attachments/assets/9e5bfd27-82d0-4198-ac71-d2075ae8ec55)
+![out-plane example](https://github.com/user-attachments/assets/93cd95c4-fbaa-4b39-b21f-99bb5e3a57cd)
+![solid angle example](https://github.com/user-attachments/assets/b675001f-9f67-46e2-89ba-77febef5e6e5)
+
